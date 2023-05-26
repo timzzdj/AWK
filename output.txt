@@ -1,0 +1,6 @@
+col1	col2	NULL	col4
+item1	NULL	item1	item1
+NULL	item1	item2	NULL
+item2	item2	NULL	item2
+item3	NULL	item3	item3
+NULL	item3	NULL	NULL
