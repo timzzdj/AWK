@@ -1,4 +1,4 @@
-# Command line script: gawk -f awk_script.awk < sample_dataset.txt > output_dataset.txt
+# Command line script: gawk -f fill_empty_field.awk < sample_dataset.txt > output_dataset.txt
 
 # Executes at the start before the body of the loop
 BEGIN {
