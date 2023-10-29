@@ -1,0 +1,21 @@
+supplier name,supplier identifier,web site,description,account number,rating,address type,address line1,address line2,city,zip code,province region,us state,country/region,company phone type 1,company phone number 1,company phone extension 1,company phone notes 1,first names,Last Name,title,email,contact phone type 1,contact phone number 1,contact phone extension 1,contact phone type 2,contact phone number 2,contact phone extension 2,contact phone type 3,contact phone number 3,contact phone extension 3,creation date,modification date,Country of Origin
+Duplicate row 37:  Cables 2 Go, , ,Use: LASTAR ELECTRONICS (DONGGUAN) CO LTD, ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2018-09-09 19:26:42,2019-12-04 08:32:21,China
+Duplicate row 65:  DIODES IN, , ,Use Diodes Inc., ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:18:03,2017-08-14 13:53:28, 
+Duplicate row 66:  DIODES INC, , ,Use Diodes Inc. supplier, ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:05:56,2017-08-14 13:52:56, 
+Duplicate row 69:  Dummy Supplier N1, , , , ,unrated, , , , , , , , , , , , , , , , , , , , , , , , , ,2022-12-21 09:11:34, , 
+Duplicate row 86:  FAIRCHILD/NATIONAL, , , , ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:17:57,2018-04-25 07:19:52, 
+Duplicate row 89:  Fake Supplier 2, , , , ,unrated, , , , , , , , , , , , , , , , , , , , , , , , , ,2021-12-01 00:28:15, , 
+Duplicate row 119:  Johanson Technology Inc.,Johanson Tech,http://www.johansontechnology.com, , ,approved, , , , , , , , ,fax,(805) 389-1821, , , , , , , , , , , , , , , ,2017-01-17 08:35:12, ,USA
+Duplicate row 145:  MCMASTER-CARR,27210, , , ,approved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:06:00,2018-02-07 08:06:41, 
+Duplicate row 165:  Murata,GRM03, ,CAP CER 22PF 50V C0G/NP0 0201, ,approved, , , , , , , , , , , , , , , , , , , , , , , , , ,2019-03-12 19:29:50, ,China
+Duplicate row 174:  ON SEMI/AMI, , , , ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:28:32,2018-04-25 07:17:16, 
+Duplicate row 178:  ON-Semi (17SZ Series), , , , ,unrated, , , , , , , , , , , , , , , , , , , , , , , , , ,2019-03-14 15:58:39, , 
+Duplicate row 186:  PASS & SEYMOURE, , , , ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:18:11,2018-02-22 07:42:29, 
+Duplicate row 204:  ROYAL PARS, , , , ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:33:14,2019-11-06 18:43:15, 
+Duplicate row 241:  TDK (5%) (GENERAL C SERIES), , ,Use main TDK supplier, ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:30:05,2017-10-23 15:26:42, 
+Duplicate row 257:  TOSHIBA, , , , ,unrated, , , , , , , , , , , , , , , , , , , , , , , , , ,2019-04-11 21:31:28, , 
+Duplicate row 258:  TOSHIBA,Discrete Semiconductor Products, , , ,approved, , , , , , , , , , , , , , , , , , , , , , , , , ,2019-04-11 21:39:51, , 
+Duplicate row 259:  TOSHIBA,Discrete Semiconductor Products, , , ,unrated, , , , , , , , , , , , , , , , , , , , , , , , , ,2019-04-11 21:42:22, , 
+Duplicate row 260:  TOSHIBA (74VHC series),IC logic multivibrator, , , ,unrated, , , , , , , , , , , , , , , , , , , , , , , , , ,2019-04-16 10:11:13, , 
+Duplicate row 265:  TRISTAR MANUFACTURING,27368, , , ,approved, , , , , , , , , , , , , , , , , , , , , , , , , ,2017-09-21 07:21:49,2019-03-28 15:42:49,USA
+Duplicate row 281:  YAGEO (BZ SPECIAL), , ,Use main Yageo supplier, ,disapproved, , , , , , , , , , , , , , , , , , , , , , , , , ,2015-02-11 08:31:25,2017-10-23 15:24:48, 
